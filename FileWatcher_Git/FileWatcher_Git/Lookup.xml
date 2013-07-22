@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lookup>
+  <directory name="c:\\text">
+    <filename>abc.txt</filename>
+    <filename>pqr.txt</filename>
+  </directory>
+</lookup>
