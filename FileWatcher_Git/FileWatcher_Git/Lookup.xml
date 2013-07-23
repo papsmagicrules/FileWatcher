@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <lookup>
   <directory name="c:\\text">
-    <filename>abc.txt</filename>
-    <filename>pqr.txt</filename>
+    <filename>asjkfhsjf</filename>
+  </directory>
+  <directory name="asdasdasd">
+    <filename>asdasdasd</filename>
   </directory>
 </lookup>
