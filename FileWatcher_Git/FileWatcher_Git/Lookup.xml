@@ -1,9 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<lookup>
-  <directory name="c:\\text">
-    <filename>asjkfhsjf</filename>
-  </directory>
-  <directory name="asdasdasd">
-    <filename>asdasdasd</filename>
-  </directory>
-</lookup>
+﻿<?xml version="1.0" encoding="utf-8"?><lookup><directory name="c:\text"><filename>aa|ASOFDATE|MMddyyyy|.txt</filename><filename>as|ASOFDATE|MMddyy|.txt</filename></directory><directory name="c:\text\t"><filename>bb|PREVIOUSDATE|ddMMyyyy|.txt.pgp</filename></directory></lookup>

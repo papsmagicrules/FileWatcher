@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data Structure\Directory.cs" />
+    <Compile Include="Data Structure\GenerateStatus.cs" />
     <Compile Include="Settings.cs">
       <SubType>Form</SubType>
     </Compile>
